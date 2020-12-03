@@ -31,7 +31,7 @@ This project was part of a Microsoft technical interview for the role of Senior 
 
 ## 	
 
-1. clone the project
+1. Run from command line
 
 ```bash
 # Clone this repository
@@ -45,11 +45,17 @@ $ javac Node.java Main.java GraphTraversal.java Solution.java
 
 # run
 $ java Main
+```
 
-## Getting Started CLI from netbeans run:
+2. Run from Apache Netbeans
 
 ```bash
- import project folder
+# Clone this repository
+$ https://github.com/kiptubei/MicrosoftTreeArray.git
+
+# Getting Started from netbeans run:
+
+ import project folder into netbeans
 
  run from ide
 ```
