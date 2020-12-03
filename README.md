@@ -56,9 +56,9 @@ $ java Main
 
 ## Usage
 
-- open index.html in dist folder
-- click on menu to see list of food in the menu
-- click on contact to see the contact information
+- Generates the tree structure
+- Runs a breadth first search (BFS) traversal through the tree (Should be shortest path)
+- Runs a depth first search (DFS) traversal through the tree generated
 
 ## Authors
 
