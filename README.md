@@ -1,4 +1,4 @@
-# Library (JavaScript)
+# Microsoft Tree Array
 
 This project was part of a Microsoft technical interview for the role of Senior Software Engineer
 
@@ -29,7 +29,7 @@ This project was part of a Microsoft technical interview for the role of Senior 
 - Java openjdk version "11"
 - Apache Netbeans 12.1
 
-## Getting Started
+## 	
 
 1. clone the project
 
@@ -46,7 +46,7 @@ $ javac Node.java Main.java GraphTraversal.java Solution.java
 # run
 $ java Main
 
-## from netbeans run:
+## Getting Started CLI from netbeans run:
 
 ```bash
  import project folder
@@ -62,7 +62,7 @@ $ java Main
 
 ## Authors
 
-👤 **Rida Elbahtouri**
+👤 **Mark James Kiptubei**
 
 - [Github](https://github.com/kiptubei)
 - [Twitter](https://twitter.com/mjabei)
